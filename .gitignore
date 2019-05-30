@@ -1,0 +1,12 @@
+# MySQL data
+
+server/data/mysql/
+
+# VS Code
+
+client/.vscode/
+!client/.vscode/tasks.json
+!client/.vscode/launch.json
+
+client/**/[Bb]in
+client/**/[Oo]bj
